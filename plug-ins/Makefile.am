@@ -32,6 +32,7 @@ endif
 SUBDIRS = \
 	$(script_fu)		\
 	$(pygimp)		\
+	animation-play		\
 	file-bmp		\
 	$(file_darktable)	\
 	$(file_exr)		\
